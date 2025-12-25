@@ -1,6 +1,5 @@
-🚀 APP-365 | Built by Riddhesh
-Hey 👋
-I’m Riddhesh Randive, a Computer Science student who believes the best way to learn is by building in public.
+🚀 APP-365 | Built by Riddhesh 
+A Computer Science student who believes the best way to learn is by building in public.
 
 **One minute a day. No edits. No filters. Just you.**
 
@@ -42,6 +41,7 @@ No noise. No scrolling.
 ## Why this project
 This isn’t a demo app.
 It includes auth, time-based locks, streak logic, media uploads, and privacy layers.
+
 ```bash
 🛠️ Current Status
 ✅ Project structure fixed
