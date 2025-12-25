@@ -1,36 +1,60 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+🚀 APP-365 | Built by Riddhesh
+Hey 👋
+I’m Riddhesh Randive, a Computer Science student who believes the best way to learn is by building in public.
 
-## Getting Started
+**One minute a day. No edits. No filters. Just you.**
 
-First, run the development server:
+## What is 365?
+365 is a minimalist app where users capture **one moment per day** for an entire year.
+* One post per day
+* Under 60 seconds
+* Never editable
+* Miss a day → it’s locked forever 🧊
 
+It becomes a **year-long timeline of real life**.
+
+## How it works
+Each day, users post **one**:
+* 📝 Sentence
+* 📸 Photo
+* 🎙️ 10-second voice note
+
+Visibility options:
+* Only me
+* Close circle
+* Anonymous public feed
+
+Optional daily prompts gently encourage reflection.
+
+## The payoff
+A **365-day grid** fills up over time.
+By February, stopping feels impossible.
+
+No noise. No scrolling.
+**Silence is the flex.**
+
+## Tech Stack
+* Next.js (App Router)
+* TypeScript
+* Supabase (Auth, DB, Storage)
+* Tailwind CSS
+
+## Why this project
+This isn’t a demo app.
+It includes auth, time-based locks, streak logic, media uploads, and privacy layers.
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+🛠️ Current Status
+✅ Project structure fixed
+✅ App running locally
+✅ Supabase connected
+🚧 Features under active development
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+🤝 Let’s Connect
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Help build it!
+If you’re also learning, or just curious:
+LinkedIn: https://www.linkedin.com/in/riddhesh-randive-289978339/
+GitHub: you’re already here 😉
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
